@@ -1,2 +1,2 @@
 for source code:-
-for to src folder.
+go to src folder.
